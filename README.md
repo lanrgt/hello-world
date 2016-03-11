@@ -1,4 +1,6 @@
 # hello-world
 这是一个基于github的git测试项目
 
-这是对readme的一些修改，在readme-edits分支
+修改了原来的第四行，
+添加了第五行，也就是本行.
+添加了第六行，属于分支01cmt02
